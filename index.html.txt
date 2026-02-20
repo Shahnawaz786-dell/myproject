@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 index.html
 style.css
 script.js
+=======
+<h1>Hello World</h1>
+>>>>>>> 219b3c20a3580c5093fc1fd6568b353e58dd123a
